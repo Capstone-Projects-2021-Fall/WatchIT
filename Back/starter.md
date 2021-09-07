@@ -1,6 +1,5 @@
-### To start server
+### Setting up Virtual Environment
 
-First, setup the virtual enviornment:
 Skip the mkdir steps
 https://flask.palletsprojects.com/en/2.0.x/installation/
 
@@ -15,6 +14,7 @@ To activate venv:
 venv\Scripts\activate
 ```
 
+## To start server
 1. Go to ../WatchIT/Back in your terminal
 2. Bash
 ```
