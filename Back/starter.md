@@ -16,7 +16,8 @@ venv\Scripts\activate
 
 ## To start server
 1. Go to ../WatchIT/Back in your terminal
-2. Bash
+2. PICK ONE!!!
+Bash
 ```
 $ export FLASK_APP=flaskr
 $ export FLASK_ENV=development
