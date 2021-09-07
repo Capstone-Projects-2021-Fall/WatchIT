@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WatchIT",
+    "slug": "WatchIT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WatchIT"
+}
